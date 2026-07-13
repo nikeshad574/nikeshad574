@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshad574&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshad574" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nikeshad574.github.io/](https://nikeshad574.github.io/)
+- 👨‍💻 All of my projects are available at [https://nikeshad574.com/](https://nikeshad574.com/)
 
-- 📝 I write articles on [https://anytimeclass2020.blogspot.com/](https://anytimeclass2020.blogspot.com/)
+- 📝 I write articles on [https://nikeshadhikari574.com.np/](https://nikeshadhikari574.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
